@@ -59,7 +59,7 @@ public class Radio {
 
     public void decreaseVolume() {
         if (currentVolume > 0) {
-            currentVolume = currentVolume + 1;
+            currentVolume = currentVolume - 1;
         }
     }
 
