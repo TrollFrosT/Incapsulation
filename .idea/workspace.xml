@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7514ac1f-1774-4014-b225-d477a7a30385" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/javaqa/Incapsulation/Radio/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/javaqa/Incapsulation/Radio/Radio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/javaqa/Incapsulation/Radio/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/javaqa/Incapsulation/Radio/RadioTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="7514ac1f-1774-4014-b225-d477a7a30385" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +36,7 @@
     "last_directory_selection": "D:/IdeaProjects/Incapsulation/src/test/java"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.RadioTest.shouldToPreMinStation">
+  <component name="RunManager" selected="JUnit.RadioTest.shouldToUpVolume">
     <configuration name="RadioTest.shouldToLowerBorderStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Incapsulation" />
       <extension name="coverage">
@@ -105,7 +101,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioTest.shouldToUpVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Incapsulation" />
       <extension name="coverage">
         <pattern>
@@ -115,7 +111,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.javaqa.Incapsulation.Radio" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.javaqa.Incapsulation.Radio.RadioTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="METHOD_NAME" value="shouldToUpVolume" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RadioTest.shouldToUpVolume" />
         <item itemvalue="JUnit.RadioTest.shouldToPreMinStation" />
         <item itemvalue="JUnit.RadioTest.shouldToMidleBorderStation" />
         <item itemvalue="JUnit.RadioTest.shouldToLowerBorderStation" />
         <item itemvalue="JUnit.RadioTest.shouldToOverStation" />
-        <item itemvalue="JUnit.RadioTest.test" />
       </list>
     </recent_temporary>
   </component>
