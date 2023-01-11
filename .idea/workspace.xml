@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7514ac1f-1774-4014-b225-d477a7a30385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/javaqa/Incapsulation/Radio/RadioTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/javaqa/Incapsulation/Radio/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/javaqa/Incapsulation/Radio/Radio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RadioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/javaqa/Incapsulation/Radio/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/javaqa/Incapsulation/Radio/RadioTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +40,8 @@
     "last_directory_selection": "D:/IdeaProjects/Incapsulation/src/test/java"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.RadioTest (1)">
-    <configuration name="RadioTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RadioTest.shouldToPreMinStation">
+    <configuration name="RadioTest.shouldToLowerBorderStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Incapsulation" />
       <extension name="coverage">
         <pattern>
@@ -52,45 +51,71 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.javaqa.Incapsulation.Radio" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.javaqa.Incapsulation.Radio.RadioTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RadioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Incapsulation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RadioTest.shouldSetStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Incapsulation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="METHOD_NAME" value="shouldSetStation" />
+      <option name="METHOD_NAME" value="shouldToLowerBorderStation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.shouldToDecreaseVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioTest.shouldToMidleBorderStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Incapsulation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="METHOD_NAME" value="shouldToDecreaseVolume" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.javaqa.Incapsulation.Radio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.javaqa.Incapsulation.Radio" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.javaqa.Incapsulation.Radio.RadioTest" />
+      <option name="METHOD_NAME" value="shouldToMidleBorderStation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.shouldToSetStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioTest.shouldToOverStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Incapsulation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="METHOD_NAME" value="shouldToSetStation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.javaqa.Incapsulation.Radio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.javaqa.Incapsulation.Radio" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.javaqa.Incapsulation.Radio.RadioTest" />
+      <option name="METHOD_NAME" value="shouldToOverStation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.shouldToPreMinStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Incapsulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.javaqa.Incapsulation.Radio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.javaqa.Incapsulation.Radio" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.javaqa.Incapsulation.Radio.RadioTest" />
+      <option name="METHOD_NAME" value="shouldToPreMinStation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Incapsulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.javaqa.Incapsulation.Radio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.javaqa.Incapsulation.Radio" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.javaqa.Incapsulation.Radio.RadioTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RadioTest (1)" />
-        <item itemvalue="JUnit.RadioTest" />
-        <item itemvalue="JUnit.RadioTest.shouldToDecreaseVolume" />
-        <item itemvalue="JUnit.RadioTest.shouldToSetStation" />
-        <item itemvalue="JUnit.RadioTest.shouldSetStation" />
+        <item itemvalue="JUnit.RadioTest.shouldToPreMinStation" />
+        <item itemvalue="JUnit.RadioTest.shouldToMidleBorderStation" />
+        <item itemvalue="JUnit.RadioTest.shouldToLowerBorderStation" />
+        <item itemvalue="JUnit.RadioTest.shouldToOverStation" />
+        <item itemvalue="JUnit.RadioTest.test" />
       </list>
     </recent_temporary>
   </component>

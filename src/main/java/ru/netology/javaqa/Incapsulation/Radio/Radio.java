@@ -2,6 +2,17 @@ package ru.netology.javaqa.Incapsulation.Radio;
 public class Radio {
 
     private int stationNumber;
+    private int maxStation;
+
+    public Radio() {
+        maxStation = 9;
+
+    }
+
+    public Radio(int stationCount) {
+        maxStation = stationCount - 1;
+
+    }
 
     public int getStationNumber() {
         return stationNumber;
@@ -11,14 +22,14 @@ public class Radio {
         if (nextStationNumber < 0){
             return;
         }
-        if (nextStationNumber >9) {
+        if (nextStationNumber >maxStation) {
             return;
         }
         stationNumber = nextStationNumber;
     }
 
     public void increaseStationNumber() {
-        if (stationNumber < 9) {
+        if (stationNumber < maxStation) {
             stationNumber = stationNumber + 1;
         }
         else {
@@ -31,7 +42,7 @@ public class Radio {
 
         }
         else {
-            stationNumber = 9;
+            stationNumber = maxStation;
         }
     }
 
@@ -45,14 +56,14 @@ public class Radio {
         if (nextVolume < 0) {
             return;
         }
-        if (nextVolume > 10){
+        if (nextVolume > 100){
             return;
         }
         currentVolume = nextVolume;
     }
 
     public void increaseVolume() {
-        if (currentVolume < 10) {
+        if (currentVolume < 100) {
             currentVolume = currentVolume + 1;
         }
     }
